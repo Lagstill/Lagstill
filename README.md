@@ -1,5 +1,4 @@
 ### Hi there 👋
-![So far this is me...](https://github-readme-stats.vercel.app/api?username=Lagstill&theme=react&show_icons=true)
 
 <!--
 **Lagstill/Lagstill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 
-| <a href="https://github.com/Lagstill/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Lagstill&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Lagstill's github stats" /></a> | <a href="https://github.com/Lagstill/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lagstill&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/Lagstill/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Lagstill&show_icons=true&include_all_commits=true&theme=react&hide_border=true" alt="Lagstill's github stats" /></a> | <a href="https://github.com/Lagstill/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lagstill&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
