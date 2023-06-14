@@ -4,20 +4,6 @@
 
 <!--
 **Lagstill/Lagstill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-
-
 | <a href="https://github.com/Lagstill/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Lagstill&show_icons=true&include_all_commits=true&theme=react&hide_border=true" alt="Lagstill's github stats" /></a> | <a href="https://github.com/Lagstill/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lagstill&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 -->
@@ -29,3 +15,5 @@ Here are some ideas to get you started:
 - 💬 Ask me anything about AI and its might,
 - 📫 Reach me through the interwebs, day or night.
 - ⚡ Fun fact? I can predict the future in a machine learning dream.
+
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
