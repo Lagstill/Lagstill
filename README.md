@@ -16,4 +16,4 @@
 - 📫 Reach me through the interwebs, day or night.
 - ⚡ Fun fact? I can predict the future in a machine learning dream.
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/Lagstill/Lagstill/blob/main/code.gif?raw=true" width="500" height="320" />
