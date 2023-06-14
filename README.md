@@ -24,7 +24,6 @@ Here are some ideas to get you started:
 
 - 🔭 Currently crunching data with my wicked skills,
 - 🌱 Learning the secrets that machine learning reveals.
-- 👯 Seeking collaborators for projects grand,
 - 🤔 In need of help to make my code truly command.
 
 - 💬 Ask me anything about AI and its might,
