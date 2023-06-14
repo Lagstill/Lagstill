@@ -15,5 +15,10 @@
 - 💬 Ask me anything about AI and its might,
 - 📫 Reach me through the interwebs, day or night.
 - ⚡ Fun fact? I can predict the future in a machine learning dream.
-
+<p align="left">
+  <img
+    src="https://komarev.com/ghpvc/?username=Lagstill"
+    alt="Lagstill"
+  />
+</p>
 <img align="right" alt="GIF" src="https://github.com/Lagstill/Lagstill/blob/main/code.gif?raw=true" width="500" height="320" />
